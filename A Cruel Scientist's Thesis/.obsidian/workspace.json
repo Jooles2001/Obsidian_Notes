@@ -4,35 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "750b3b5aece1e967",
+        "id": "2a8f5cc6ff9d45fb",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec036b05b8f0bd3",
+            "id": "2e7bd7943c30aae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-15.md",
+                "file": "Administratif.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfb54c3df56c00db",
+            "id": "086c78c5f607b040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CaBRNet Hackathon.md",
+                "file": "TO-DO.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21b980a683fae763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XAI notes/SHAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a35b9b4bcb07e41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XAI notes/Anchors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd146cef1916d40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f659f72be256f731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XAI notes/A Symbolic Approach to Explaining Bayesian Network Classifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e385204e2cb36ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On the stability, correctness and plausibility of visual explanation methods based on feature importance.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -78,11 +138,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -98,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CaBRNet Hackathon.md",
+                "file": "On the stability, correctness and plausibility of visual explanation methods based on feature importance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CaBRNet Hackathon.md",
+                "file": "On the stability, correctness and plausibility of visual explanation methods based on feature importance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CaBRNet Hackathon.md"
+                "file": "On the stability, correctness and plausibility of visual explanation methods based on feature importance.md"
               }
             }
           }
@@ -159,10 +221,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfb54c3df56c00db",
+  "active": "e385204e2cb36ec9",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "CaBRNet Hackathon.md",
-    "2023-12-15.md"
+    "Pasted image 20240116151027.png",
+    "XAI notes/A Symbolic Approach to Explaining Bayesian Network Classifiers.md",
+    "On the stability, correctness and plausibility of visual explanation methods based on feature importance.md",
+    "Pasted image 20240116150058.png",
+    "XAI notes/Delivering Trustworthy AI through Formal XAI.md",
+    "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
+    "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
+    "XAI notes/Self-Explaining Neural Networks.md",
+    "XAI notes/Interpretable Machine Learning.md",
+    "XAI notes/Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.md",
+    "XAI notes/Shapley Values.md",
+    "XAI notes/SHAP.md",
+    "Transformers.md",
+    "On The Reasons Behind Decisions.md",
+    "Soutenance de thèses/Soline DUCOUSSO.md",
+    "Soutenance de thèses/Répétition de Soutenance de Thèse R.Xu-Darme.md",
+    "Soutenance de thèses/Fabio ARNEZ.md",
+    "Points LAISER/Point LAISER 2023-11-21.md",
+    "Points LAISER/Point LAISER 2023-12-05.md",
+    "MTV2-LVP/Separation in ACSL.md",
+    "Miscellaneous/2023-12-15.md",
+    "Collège de France/Cours de Benoit Sagot/2023-12-08.md",
+    "Collège de France/Cours de Benoit Sagot/2023-12-22.md",
+    "XAI notes/Anchors.md",
+    "Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
+    "TO-DO.md",
+    "XAI notes/VERIX- Towards Verified Explainability ofDeep Neural Networks.md",
+    "Pasted image 20240105145528.png",
+    "Pasted image 20240103162800.png",
+    "XAI notes",
+    "Soutenance de thèses",
+    "Points LAISER",
+    "MTV2-LVP",
+    "Miscellaneous",
+    "Focal Points",
+    "Collège de France/Cours de Benoit Sagot",
+    "Collège de France",
+    "Untitled.canvas"
   ]
 }
