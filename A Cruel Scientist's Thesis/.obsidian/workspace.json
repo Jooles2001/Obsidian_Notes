@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e7bd7943c30aae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administratif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "086c78c5f607b040",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +148,9 @@
   },
   "active": "086c78c5f607b040",
   "lastOpenFiles": [
+    "CaBRNet/CaBRNet Hackathon.md",
+    "Administratif.md",
+    "Factory-IA.md",
     "This Looks Like That.md",
     "TO-DO.md",
     "XAI notes/SHAP.md",
@@ -175,7 +165,6 @@
     "XAI notes/Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.md",
     "Pasted image 20240122103408.png",
     "Metrics for Explainable AI - Challenges and Prospects.md",
-    "Factory-IA.md",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
     "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "Images/Pasted image 20240116151027.png",
@@ -190,8 +179,6 @@
     "XAI notes/Shapley Values.md",
     "XAI notes/Self-Explaining Neural Networks.md",
     "Pistes de réflexion",
-    "Administratif.md",
-    "CaBRNet/CaBRNet Hackathon.md",
     "CaBRNet",
     "XAI notes/Bibliography.md",
     "Cybersecurity/Lend Me Your Ears.md",
