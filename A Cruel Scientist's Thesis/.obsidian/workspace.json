@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This Looks Like That.md",
+                "file": "Factory-IA.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This Looks Like That.md",
+                "file": "Factory-IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This Looks Like That.md",
+                "file": "Factory-IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This Looks Like That.md"
+                "file": "Factory-IA.md"
               }
             }
           }
@@ -162,6 +161,7 @@
   },
   "active": "086c78c5f607b040",
   "lastOpenFiles": [
+    "This Looks Like That.md",
     "TO-DO.md",
     "XAI notes/SHAP.md",
     "XAI notes/Anchors.md",
@@ -173,7 +173,6 @@
     "Images/Pasted image 20240118142340.png",
     "Idées 2024-01-18.md",
     "XAI notes/Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.md",
-    "This Looks Like That.md",
     "Pasted image 20240122103408.png",
     "Metrics for Explainable AI - Challenges and Prospects.md",
     "Factory-IA.md",
