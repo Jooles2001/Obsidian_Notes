@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fdc3342e41fefb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factory-IA.md"
+                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086c78c5f607b040",
+  "active": "1fdc3342e41fefb4",
   "lastOpenFiles": [
+    "Factory-IA.md",
+    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+    "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
     "CaBRNet/CaBRNet Hackathon.md",
     "Administratif.md",
-    "Factory-IA.md",
     "This Looks Like That.md",
     "TO-DO.md",
     "XAI notes/SHAP.md",
@@ -181,7 +196,6 @@
     "Pistes de réflexion",
     "CaBRNet",
     "XAI notes/Bibliography.md",
-    "Cybersecurity/Lend Me Your Ears.md",
     "Cybersecurity",
     "XAI notes",
     "Soutenance de thèses",
