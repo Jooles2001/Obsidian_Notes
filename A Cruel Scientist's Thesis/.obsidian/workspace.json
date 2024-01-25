@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Benchmark for Interpretability Methods in DeepNeural Networks.md"
+                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "1fdc3342e41fefb4",
   "lastOpenFiles": [
-    "Factory-IA.md",
     "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+    "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
+    "Collège de France/Cours de Xavier Leroy",
+    "Untitled",
+    "Factory-IA.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
     "CaBRNet/CaBRNet Hackathon.md",
     "Administratif.md",
@@ -195,14 +198,11 @@
     "XAI notes/Self-Explaining Neural Networks.md",
     "Pistes de réflexion",
     "CaBRNet",
-    "XAI notes/Bibliography.md",
     "Cybersecurity",
     "XAI notes",
     "Soutenance de thèses",
     "Points LAISER",
     "MTV2-LVP",
-    "Miscellaneous",
-    "Focal Points",
     "Untitled.canvas"
   ]
 }
