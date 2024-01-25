@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
+                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
+                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
+                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège de France/Cours de Xavier Leroy/2024-01-25.md"
+                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fdc3342e41fefb4",
+  "active": "ce474274fcd67255",
   "lastOpenFiles": [
-    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
+    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Collège de France/Cours de Xavier Leroy",
     "Untitled",
     "Factory-IA.md",
