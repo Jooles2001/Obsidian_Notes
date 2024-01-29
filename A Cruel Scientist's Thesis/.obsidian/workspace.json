@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "XAI notes/GLIME.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
+                "file": "XAI notes/GLIME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
+                "file": "XAI notes/GLIME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md"
+                "file": "XAI notes/GLIME.md"
               }
             }
           }
@@ -160,17 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce474274fcd67255",
+  "active": "086c78c5f607b040",
   "lastOpenFiles": [
+    "XAI notes/This Looks Like That.md",
+    "XAI notes/GLIME.md",
+    "Factory-IA.md",
+    "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
     "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Collège de France/Cours de Xavier Leroy",
     "Untitled",
-    "Factory-IA.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
     "CaBRNet/CaBRNet Hackathon.md",
     "Administratif.md",
-    "This Looks Like That.md",
     "TO-DO.md",
     "XAI notes/SHAP.md",
     "XAI notes/Anchors.md",
@@ -185,7 +185,6 @@
     "Pasted image 20240122103408.png",
     "Metrics for Explainable AI - Challenges and Prospects.md",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
-    "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "Images/Pasted image 20240116151027.png",
     "Images/Pasted image 20240105145528.png",
     "Images/Pasted image 20240103162800.png",
@@ -196,7 +195,6 @@
     "XAI notes/Interpretable Machine Learning.md",
     "XAI notes/VERIX- Towards Verified Explainability ofDeep Neural Networks.md",
     "XAI notes/Shapley Values.md",
-    "XAI notes/Self-Explaining Neural Networks.md",
     "Pistes de réflexion",
     "CaBRNet",
     "Cybersecurity",

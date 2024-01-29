@@ -27,3 +27,44 @@ The function $g_{\mathbf{p}_j}$ is *monotonically decreasing* with respect to $\
 
 In (their) ProtoPNet, (they) allocate a pre-determined number of prototypes $m_k$ for each class $k ∈ \{1, ..., K\}$ 
 ($K=10$ per class by default), so that every class will be represented by some prototypes in the final model. 
+
+---
+## Training algorithm
+
+Optimization problem:
+$$
+\min_{\mathbf{P}, w_{conv}}\frac{1}{n}\sum_{i=1}^n\text{CrsEnt}(h \circ g_{\mathbf{p}} \circ f(\mathbf{x}_\mathbf{i}), \mathbf{y}_\mathbf{i}) + \lambda_1\text{Clst} + \lambda_2\text{Sep}
+$$
+-> The cross entropy loss penalizes mis-classification on the training data
+
+
+With the following sub-loss problems:
+$$
+\text{Clst}=\frac{1}{n}\sum_{i=1}^n\min_{j:\mathbf{p}_j\in\mathbf{P}_{y_i}}\min_{\mathbf{z}\in\text{patches}(f(\mathbf{x}_i))}\|\mathbf{z} − \mathbf{p}_j \|^2_2
+$$
+-> The minimization of the cluster cost (Clst) encourages each training image to have some latent patch that is close to at least one prototype of its own class
+
+
+$$
+\text{Sep} = -\frac{1}{n}\sum_{i=1}^n\min_{j:\mathbf{p}_j\notin\mathbf{P}_{y_i}}\min_{\mathbf{z}\in\text{patches}(f(\mathbf{x}_i))}\|\mathbf{z} − \mathbf{p}_j \|^2_2
+$$
+-> The minimization of the separation cost (Sep) encourages every latent patch of a training image to stay away from the prototypes not of its own class.
+
+> Note: the last layer $h$ is fixed at this stage, with $w_h^{(k,j)}=1$ for all $j$ such that $\mathbf{p}_j \in \mathbf{P}_k$ and 
+> $w_h^{(k,j)}=-0.5$ for all $j$ such that $\mathbf{p}_j \notin \mathbf{P}_k$
+
+#### Projection of prototypes
+The update that is operated is the following:
+$$
+\mathbf{p}_j \leftarrow \min_{\mathbf{z}\in\mathcal{Z}_j}\|\mathbf{z} − \mathbf{p}_j \|^2_2
+\quad; \quad
+\mathcal{Z}_j=\{\tilde{\mathbf{z}}:\tilde{\mathbf{z}} \in \text{patches}(f(\mathbf{x}_i)),  \forall i \text{  s.t.  } y_i=k\}
+$$
+
+#### Convex optimization of last layer
+Goal:   have $w_h^{(k,j)}\approx0$ for all $j$ such that $\mathbf{p}_j \notin \mathbf{P}_k$ 
+The convex optimization problem solved is :
+$$
+\min_{w_h}\frac{1}{n}\sum_{i=1}^n\text{CrsEnt}(h \circ g_{\mathbf{p}} \circ f(\mathbf{x}_\mathbf{i}), \mathbf{y}_\mathbf{i}) + \lambda\sum_{k=1}^K\sum_{j:\mathbf{p}_j\notin\mathbf{P}_k}|w_h^{(k,j)}|
+$$
+> Note: at this stage, all the convolutional and prototype layers are fixed
