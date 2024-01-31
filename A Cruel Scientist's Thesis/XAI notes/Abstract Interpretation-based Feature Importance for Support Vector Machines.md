@@ -13,7 +13,7 @@ Paper: https://caterinaurban.github.io/pdf/vmcai2024.pdf
 - generate counterexamples wen the abstraction is unable to prove individual fairness
 	-> The fraction of successful counterexample searches over a test dataset yields an ==upper bound== on the real individual fairness of a SVM.
 	
-==>SAVer
+==>improves (already existing) SAVer
 
 
 

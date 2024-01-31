@@ -40,6 +40,7 @@ Three-level taxonomy of plausibility:
 ### Contrastivity
 > discriminativeness of an explanation ==> an explanation should explain an event, but also relative to some other event that did not occur
 
+-> More on [[Contrastivity Properties]]
 ### Covariate complexity
 > covariates in the explanation should be comprehensible and concepts should have an immediate human-understandable interpretation.
 
