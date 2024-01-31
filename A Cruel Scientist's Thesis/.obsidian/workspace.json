@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/GLIME.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/GLIME.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/GLIME.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/GLIME.md"
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "086c78c5f607b040",
   "lastOpenFiles": [
-    "XAI notes/This Looks Like That.md",
     "XAI notes/GLIME.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+    "Untitled.md",
+    "XAI notes/This Looks Like That.md",
     "Factory-IA.md",
     "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
@@ -193,8 +195,6 @@
     "XAI notes/Delivering Trustworthy AI through Formal XAI.md",
     "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
     "XAI notes/Interpretable Machine Learning.md",
-    "XAI notes/VERIX- Towards Verified Explainability ofDeep Neural Networks.md",
-    "XAI notes/Shapley Values.md",
     "Pistes de réflexion",
     "CaBRNet",
     "Cybersecurity",
