@@ -23,3 +23,7 @@ Alternatively, the authors of [[LEARNING HOW TO EXPLAIN NEURAL NETWORKS PATTERNN
 
 - introduced by the authors of [[Sanity Checks for Saliency Maps]]
 -> sanity check for the "sensitivity of an explanation method to the relationship between instances and labels"
++ model-agnostic
+- explanations explain the mapping between input and output that the predictive model has learned.
+- Interesting results from [[Understanding Deep Learning (Still) Requires Rethinking Generalization]]
+-> for a given test sample, the explanation of a model trained on randomized data should be different from an explanation of a model trained on the original dataset.
