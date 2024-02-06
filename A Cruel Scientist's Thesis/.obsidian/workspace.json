@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15526db0add60743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
+                "file": "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086c78c5f607b040",
+  "active": "ce474274fcd67255",
   "lastOpenFiles": [
+    "Focal Points/Zonotopes Tropicaux.md",
+    "Focal Points/Fond et Forme de MON Focal Point.md",
+    "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
+    "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "XAI notes/Contrastivity/Understanding Deep Learning (Still) Requires Rethinking Generalization.md",
     "XAI notes/Contrastivity/Contrastivity Properties.md",
     "XAI notes/Contrastivity/Explainability Techniques for Graph Convolutional Networks.md",
@@ -156,7 +174,6 @@
     "XAI notes/Contrastivity/Towards Global Explanations of Convolutional Neural Networks with Concept Attribution.md",
     "XAI notes/Contrastivity/LEARNING HOW TO EXPLAIN NEURAL NETWORKS PATTERNNET AND PATTERNATTRIBUTION.md",
     "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "XAI notes/Contrastivity",
     "XAI notes/GLIME.md",
     "Untitled.md",
@@ -166,7 +183,6 @@
     "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Collège de France/Cours de Xavier Leroy",
     "Untitled",
-    "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
     "CaBRNet/CaBRNet Hackathon.md",
     "Administratif.md",
     "TO-DO.md",
@@ -174,9 +190,6 @@
     "XAI notes/Anchors.md",
     "Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
     "XAI notes/A Symbolic Approach to Explaining Bayesian Network Classifiers.md",
-    "XAI notes/On the stability, correctness and plausibility of visual explanation methods based on feature importance.md",
-    "CaBRNet/CaBRNet - TODO.md",
-    "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
     "Images/Pasted image 20240118142340.png",
     "Pasted image 20240122103408.png",
     "Images/Pasted image 20240116151027.png",
