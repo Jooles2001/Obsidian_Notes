@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "XAI notes/Deep Visual Attention Prediction.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "XAI notes/Deep Visual Attention Prediction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "XAI notes/Deep Visual Attention Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factory-IA.md"
+                "file": "XAI notes/Deep Visual Attention Prediction.md"
               }
             }
           }
@@ -159,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15526db0add60743",
+  "active": "086c78c5f607b040",
   "lastOpenFiles": [
-    "Administratif.md",
-    "Factory-IA.md",
-    "XAI notes/Deep Visual Attention Prediction.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+    "Factory-IA.md",
+    "Administratif.md",
+    "XAI notes/Deep Visual Attention Prediction.md",
     "Focal Points/Zonotopes Tropicaux.md",
     "Focal Points/Fond et Forme de MON Focal Point.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
