@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Deep Visual Attention Prediction.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Deep Visual Attention Prediction.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Deep Visual Attention Prediction.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Deep Visual Attention Prediction.md"
+                "file": "Pistes de réflexion/Attack Detector.md"
               }
             }
           }
@@ -160,10 +160,11 @@
   },
   "active": "086c78c5f607b040",
   "lastOpenFiles": [
+    "XAI notes/Deep Visual Attention Prediction.md",
+    "Pistes de réflexion/Attack Detector.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Factory-IA.md",
     "Administratif.md",
-    "XAI notes/Deep Visual Attention Prediction.md",
     "Focal Points/Zonotopes Tropicaux.md",
     "Focal Points/Fond et Forme de MON Focal Point.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
@@ -188,7 +189,6 @@
     "TO-DO.md",
     "XAI notes/SHAP.md",
     "XAI notes/Anchors.md",
-    "Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
     "Images/Pasted image 20240118142340.png",
     "Pasted image 20240122103408.png",
     "Images/Pasted image 20240116151027.png",
