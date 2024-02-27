@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Pistes de réflexion/Attack Detector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
+                "file": "Pistes de réflexion/Attack Detector.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "086c78c5f607b040",
   "lastOpenFiles": [
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Pistes de réflexion/Attack Detector.md",
     "Untitled 1.md",
     "XAI notes/Deep Visual Attention Prediction.md",
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Factory-IA.md",
     "Administratif.md",
     "Focal Points/Zonotopes Tropicaux.md",
