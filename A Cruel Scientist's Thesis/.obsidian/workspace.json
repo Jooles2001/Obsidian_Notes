@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "086c78c5f607b040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pistes de réflexion/Attack Detector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15526db0add60743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factory-IA.md",
+                "file": "Soutenance de thèses/Fabio ARNEZ.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pistes de réflexion/Attack Detector.md",
+                "file": "Soutenance de thèses/Fabio ARNEZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pistes de réflexion/Attack Detector.md",
+                "file": "Soutenance de thèses/Fabio ARNEZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pistes de réflexion/Attack Detector.md"
+                "file": "Soutenance de thèses/Fabio ARNEZ.md"
               }
             }
           }
@@ -158,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086c78c5f607b040",
+  "active": "15526db0add60743",
   "lastOpenFiles": [
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+    "Pistes de réflexion/Idées 2024-01-18.md",
+    "Administratif.md",
+    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
+    "Focal Points/Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
+    "Factory-IA.md",
+    "Metrics for Explainable AI - Challenges and Prospects.md",
+    "Soutenance de thèses/Fabio ARNEZ.md",
     "Pistes de réflexion/Attack Detector.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Untitled 1.md",
     "XAI notes/Deep Visual Attention Prediction.md",
-    "Factory-IA.md",
-    "Administratif.md",
     "Focal Points/Zonotopes Tropicaux.md",
     "Focal Points/Fond et Forme de MON Focal Point.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
@@ -182,13 +175,8 @@
     "XAI notes/GLIME.md",
     "Untitled.md",
     "XAI notes/This Looks Like That.md",
-    "Collège de France/Cours de Xavier Leroy/2024-01-25.md",
-    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Collège de France/Cours de Xavier Leroy",
     "Untitled",
-    "CaBRNet/CaBRNet Hackathon.md",
-    "TO-DO.md",
-    "XAI notes/SHAP.md",
     "Images/Pasted image 20240118142340.png",
     "Pasted image 20240122103408.png",
     "Images/Pasted image 20240116151027.png",
