@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md"
+                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "54068e02ae2d8582",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "XAI notes/Anchors.md",
+    "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
+    "XAI notes/Deep Visual Attention Prediction.md",
+    "XAI notes/Delivering Trustworthy AI through Formal XAI.md",
+    "XAI notes/Bibliography.md",
+    "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
+    "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
+    "XAI notes/Interpretable Machine Learning.md",
+    "XAI notes/Self-Explaining Neural Networks.md",
+    "XAI notes/VERIX- Towards Verified Explainability ofDeep Neural Networks.md",
+    "XAI notes/Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
+    "Untitled 1.md",
     "Soutenance de thèses/Fabio ARNEZ.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Administratif.md",
@@ -159,22 +170,11 @@
     "Metrics for Explainable AI - Challenges and Prospects.md",
     "Pistes de réflexion/Attack Detector.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
-    "XAI notes/Deep Visual Attention Prediction.md",
     "Focal Points/Zonotopes Tropicaux.md",
     "Focal Points/Fond et Forme de MON Focal Point.md",
     "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
     "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
-    "XAI notes/Contrastivity/Understanding Deep Learning (Still) Requires Rethinking Generalization.md",
-    "XAI notes/Contrastivity/Contrastivity Properties.md",
-    "XAI notes/Contrastivity/Explainability Techniques for Graph Convolutional Networks.md",
-    "XAI notes/Contrastivity/Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks.md",
-    "XAI notes/Contrastivity/Sanity Checks for Saliency Maps.md",
-    "XAI notes/Contrastivity/Towards Global Explanations of Convolutional Neural Networks with Concept Attribution.md",
-    "XAI notes/Contrastivity/LEARNING HOW TO EXPLAIN NEURAL NETWORKS PATTERNNET AND PATTERNATTRIBUTION.md",
-    "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "XAI notes/Contrastivity",
-    "XAI notes/GLIME.md",
-    "XAI notes/This Looks Like That.md",
     "Collège de France/Cours de Xavier Leroy",
     "Untitled",
     "Images/Pasted image 20240118142340.png",

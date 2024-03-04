@@ -15,5 +15,16 @@ Paper: https://caterinaurban.github.io/pdf/vmcai2024.pdf
 	
 ==>improves (already existing) SAVer
 
+**Related Work**
+- PFI is a global, model-agnostic, performance-based measure
+- LIME and SHAP are local, model-agnostic, effect-based measure
+-> AFI is global and local, effect-based and dataset independent measure
+-> AFI is based on a formally correct-by-construction approximation of the underlying predictive
+model
+
+
+
+
+
 
 
