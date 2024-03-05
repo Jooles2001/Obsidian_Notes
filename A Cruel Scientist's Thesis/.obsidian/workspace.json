@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Focal Points/PIP-Net.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Focal Points/PIP-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "Focal Points/PIP-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
+                "file": "Focal Points/PIP-Net.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "54068e02ae2d8582",
   "lastOpenFiles": [
+    "XAI notes/Robustness Verification of Support Vector Machines.md",
+    "Focal Points/PIP-Net.md",
+    "XAI notes/GLIME.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+    "Untitled 1",
+    "Untitled",
     "XAI notes/Anchors.md",
     "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
     "XAI notes/Deep Visual Attention Prediction.md",
@@ -169,14 +175,9 @@
     "Factory-IA.md",
     "Metrics for Explainable AI - Challenges and Prospects.md",
     "Pistes de réflexion/Attack Detector.md",
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Focal Points/Zonotopes Tropicaux.md",
-    "Focal Points/Fond et Forme de MON Focal Point.md",
-    "Focal Points/Deep Explainable Relational Reinforcement Learning. A Neuro-Symbolic Approach.md",
-    "Focal Points/NeuroSymbolic Verification of Deep Neural Networks.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
-    "Untitled",
     "Images/Pasted image 20240118142340.png",
     "Pasted image 20240122103408.png",
     "Images/Pasted image 20240116151027.png",
@@ -189,7 +190,6 @@
     "Cybersecurity",
     "XAI notes",
     "Soutenance de thèses",
-    "Points LAISER",
     "Untitled.canvas"
   ]
 }

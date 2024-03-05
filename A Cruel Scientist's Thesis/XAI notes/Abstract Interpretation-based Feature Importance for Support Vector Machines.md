@@ -13,7 +13,7 @@ Paper: https://caterinaurban.github.io/pdf/vmcai2024.pdf
 - generate counterexamples wen the abstraction is unable to prove individual fairness
 	-> The fraction of successful counterexample searches over a test dataset yields an ==upper bound== on the real individual fairness of a SVM.
 	
-==>improves (already existing) SAVer
+==>improves (already existing) SAVer [[Robustness Verification of Support Vector Machines]]
 
 **Related Work**
 - PFI is a global, model-agnostic, performance-based measure
