@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Focal Points/PIP-Net.md",
+                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Focal Points/PIP-Net.md",
+                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Focal Points/PIP-Net.md",
+                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Focal Points/PIP-Net.md"
+                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "54068e02ae2d8582",
   "lastOpenFiles": [
-    "XAI notes/Robustness Verification of Support Vector Machines.md",
+    "Pasted image 20240306162050.png",
+    "Untitled.md",
+    "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
     "Focal Points/PIP-Net.md",
+    "XAI notes/Robustness",
+    "Untitled 1.md",
+    "Untitled",
+    "XAI notes/Robustness Verification of Support Vector Machines.md",
     "XAI notes/GLIME.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Untitled 1",
-    "Untitled",
     "XAI notes/Anchors.md",
     "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
     "XAI notes/Deep Visual Attention Prediction.md",
@@ -166,16 +171,12 @@
     "XAI notes/VERIX- Towards Verified Explainability ofDeep Neural Networks.md",
     "XAI notes/Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
-    "Untitled 1.md",
     "Soutenance de thèses/Fabio ARNEZ.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Administratif.md",
     "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Focal Points/Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
     "Factory-IA.md",
-    "Metrics for Explainable AI - Challenges and Prospects.md",
-    "Pistes de réflexion/Attack Detector.md",
-    "Focal Points/Zonotopes Tropicaux.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
@@ -189,7 +190,6 @@
     "CaBRNet",
     "Cybersecurity",
     "XAI notes",
-    "Soutenance de thèses",
     "Untitled.canvas"
   ]
 }
