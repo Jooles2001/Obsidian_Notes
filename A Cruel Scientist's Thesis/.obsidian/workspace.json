@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
+                "file": "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
+                "file": "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
+                "file": "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md"
+                "file": "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54068e02ae2d8582",
+  "active": "ce474274fcd67255",
   "lastOpenFiles": [
-    "Pasted image 20240306162050.png",
-    "Untitled.md",
+    "2023-12-13.md",
+    "2023-11-30.md",
+    "Images/Pasted image 20240122103408.png",
+    "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
+    "XAI notes/Robustness/SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain.md",
+    "Untitled.md",
     "Focal Points/PIP-Net.md",
     "XAI notes/Robustness",
     "Untitled 1.md",
@@ -174,13 +178,10 @@
     "Soutenance de thèses/Fabio ARNEZ.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Administratif.md",
-    "A Benchmark for Interpretability Methods in DeepNeural Networks.md",
-    "Focal Points/Neural Policy Safety Verification via Predicate Abstraction - CEGAR.md",
-    "Factory-IA.md",
+    "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
-    "Pasted image 20240122103408.png",
     "Images/Pasted image 20240116151027.png",
     "Images/Pasted image 20240105145528.png",
     "Images/Pasted image 20240103162800.png",
