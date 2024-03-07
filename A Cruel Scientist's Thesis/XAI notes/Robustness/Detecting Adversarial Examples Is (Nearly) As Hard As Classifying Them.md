@@ -7,4 +7,4 @@ given a robust detector for attacks at distance $\epsilon$, the authors show how
 ![[Pasted image 20240306162050.png]]
 
 ## Key concept
-If you have a detector $f_{det}$ that correctly classifies 
+If you have a detector $f_{det}$ that correctly classifies perturbed images, then you can have a classifier with a reject option as efficient
