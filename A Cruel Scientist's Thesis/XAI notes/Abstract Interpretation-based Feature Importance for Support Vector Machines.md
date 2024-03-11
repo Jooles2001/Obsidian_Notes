@@ -23,8 +23,14 @@ Paper: https://caterinaurban.github.io/pdf/vmcai2024.pdf
 model
 
 
+# 3.2
+Page 10, il est écrit:
+> Note that if, for some $i ∈ [1, k]$, either $a_{i,f} = ⊥^{CP}$ or $a_{i,t} = ⊥^{CP}$, then $\hat{γ}_i(a) = ∅$.
 
-
-
-
+Remarque: je ne suis pas d'accord, il y a une faute de frappe ici ou une faute de raisonnement. Rappelons la définition de $\gamma$ dans ce domaine abstrait:
+$$
+∀z ∈ \mathbb{R},\quad \gamma^{CP}(z) ≜ z, \quad \gamma^{CP}(⊥^{CP}) ≜ ∅, \quad \gamma^{CP}(⊤^{CP}) ≜ \mathbb{R}.
+$$$$\hat{γ}_i(a) ≜ \{x ∈ \mathbb{R}^k | x_i ∈ γ^{CP}(a_{i,t}), ∀j \neq i. x_j ∈ γ^{CP}(a_{i,f})\}$$
+Correction:
+> Note that if, for some $i ∈ [1, k]$, either $a_{j\neq i,f} = ⊥^{CP}$ or $a_{i,t} = ⊥^{CP}$, then $\hat{γ}_i(a) = ∅$.
 
