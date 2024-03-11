@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5004348754883
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54068e02ae2d8582",
+  "active": "ce474274fcd67255",
   "lastOpenFiles": [
     "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
     "Untitled.md",
