@@ -34,3 +34,11 @@ $$$$\hat{γ}_i(a) ≜ \{x ∈ \mathbb{R}^k | x_i ∈ γ^{CP}(a_{i,t}), ∀j \neq
 Correction:
 > Note that if, for some $i ∈ [1, k]$, either $a_{j\neq i,f} = ⊥^{CP}$ or $a_{i,t} = ⊥^{CP}$, then $\hat{γ}_i(a) = ∅$.
 
+# Core Concept
+
+(The authors) implemented in SAVer (their) OH abstraction for categorical features on top of the interval and RAF abstract domains for numerical features
+
+
+# Not understood
+- example 3.10
+	- why do we add the intervals at the very end ??
