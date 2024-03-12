@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md"
+                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "54068e02ae2d8582",
   "lastOpenFiles": [
-    "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
+    "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
     "Untitled.md",
+    "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
     "XAI notes/Robustness/SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain.md",
     "2023-11-30.md",
     "Transformers.md",
@@ -168,7 +170,6 @@
     "Untitled",
     "XAI notes/Robustness Verification of Support Vector Machines.md",
     "XAI notes/GLIME.md",
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Untitled 1",
     "XAI notes/Anchors.md",
     "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
@@ -178,7 +179,6 @@
     "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
     "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
     "XAI notes/Interpretable Machine Learning.md",
-    "XAI notes/Self-Explaining Neural Networks.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
