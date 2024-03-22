@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
+                "file": "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
+                "file": "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
+                "file": "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md"
+                "file": "XAI notes/Explainability is NOT a Game – Preliminary Report.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce474274fcd67255",
+  "active": "54068e02ae2d8582",
   "lastOpenFiles": [
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
+    "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
+    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Untitled.md",
     "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
     "XAI notes/Robustness/SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain.md",
@@ -178,7 +179,6 @@
     "XAI notes/Bibliography.md",
     "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
     "XAI notes/From Anecdotal Evidence to Quantitative Evaluation Methods - A systematic Review.md",
-    "XAI notes/Interpretable Machine Learning.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
