@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19ee689ae5426170",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54068e02ae2d8582",
+  "active": "19ee689ae5426170",
   "lastOpenFiles": [
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
     "XAI notes/Delivering Inflated Explanations.md",
