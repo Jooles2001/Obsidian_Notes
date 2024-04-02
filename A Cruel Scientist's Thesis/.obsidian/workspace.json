@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "9fb635a1a5fb1f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Delivering Inflated Explanations.md",
+                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Delivering Inflated Explanations.md",
+                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Delivering Inflated Explanations.md"
+                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md"
               }
             }
           }
@@ -157,39 +169,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ee689ae5426170",
+  "active": "9fb635a1a5fb1f84",
   "lastOpenFiles": [
+    "Papers to read.md",
+    "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+    "XAI notes/Adversarial Attacks",
+    "2023-11-30.md",
+    "2023-12-13.md",
+    "Administratif.md",
+    "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
+    "Factory-IA.md",
+    "On The Reasons Behind Decisions.md",
+    "Transformers.md",
+    "Untitled.md",
+    "TO-DO.md",
+    "README.md",
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
     "XAI notes/Delivering Inflated Explanations.md",
     "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
-    "Untitled.md",
     "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
     "XAI notes/Robustness/SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain.md",
-    "2023-11-30.md",
-    "Transformers.md",
-    "TO-DO.md",
-    "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
     "XAI notes/Metrics for Explainable AI - Challenges and Prospects.md",
-    "On The Reasons Behind Decisions.md",
     "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
-    "2023-12-13.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
     "Focal Points/PIP-Net.md",
     "XAI notes/Robustness",
-    "Untitled 1.md",
     "Untitled",
     "XAI notes/Robustness Verification of Support Vector Machines.md",
     "XAI notes/GLIME.md",
     "Untitled 1",
     "XAI notes/Anchors.md",
     "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
-    "XAI notes/Deep Visual Attention Prediction.md",
-    "XAI notes/Delivering Trustworthy AI through Formal XAI.md",
-    "XAI notes/Bibliography.md",
-    "XAI notes/Explanation in artificial intelligence  Insights from the social sciences.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
@@ -201,7 +214,6 @@
     "Pistes de réflexion",
     "CaBRNet",
     "Cybersecurity",
-    "XAI notes",
     "Untitled.canvas"
   ]
 }
