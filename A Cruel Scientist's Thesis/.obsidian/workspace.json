@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Delivering Inflated Explanations.md",
+                "file": "Papers to read.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "19ee689ae5426170",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
               }
             }
           },
@@ -36,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5edd18f13deaa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XAI notes/Adversarial Attacks/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883,
-    "collapsed": true
+    "width": 266.5004348754883
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+                "file": "XAI notes/Adversarial Attacks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+                "file": "XAI notes/Adversarial Attacks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md"
+                "file": "XAI notes/Adversarial Attacks/Untitled.md"
               }
             }
           }
@@ -171,23 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fb635a1a5fb1f84",
+  "active": "aa5edd18f13deaa9",
   "lastOpenFiles": [
+    "XAI notes/Adversarial Attacks/\"Wasn't Me\" or How to Hide Adversarial Attacks Using Explainable AI.md",
+    "XAI notes/Adversarial Attacks/Untitled.md",
     "Papers to read.md",
     "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+    "On The Reasons Behind Decisions.md",
+    "XAI notes/Bibliography.md",
+    "XAI notes/Delivering Inflated Explanations.md",
     "XAI notes/Adversarial Attacks",
     "2023-11-30.md",
     "2023-12-13.md",
     "Administratif.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
     "Factory-IA.md",
-    "On The Reasons Behind Decisions.md",
     "Transformers.md",
     "Untitled.md",
     "TO-DO.md",
     "README.md",
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
-    "XAI notes/Delivering Inflated Explanations.md",
     "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
@@ -201,10 +204,7 @@
     "XAI notes/Robustness",
     "Untitled",
     "XAI notes/Robustness Verification of Support Vector Machines.md",
-    "XAI notes/GLIME.md",
     "Untitled 1",
-    "XAI notes/Anchors.md",
-    "XAI notes/Better Metrics for Evaluating Explainable Artificial Intelligence.md",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
     "Images/Pasted image 20240118142340.png",
