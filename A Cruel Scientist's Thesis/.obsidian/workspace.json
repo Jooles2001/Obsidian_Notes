@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
+                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
+                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
+                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md"
+                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "aa5edd18f13deaa9",
   "lastOpenFiles": [
-    "Papers to read.md",
-    "On The Reasons Behind Decisions.md",
     "Factory-IA.md",
+    "On The Reasons Behind Decisions.md",
+    "Papers to read.md",
+    "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "Miscellaneous/2023-12-15.md",
     "Miscellaneous/Shonen Jump.md",
-    "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "XAI notes/Adversarial Attacks/\"Wasn't Me\" or How to Hide Adversarial Attacks Using Explainable AI.md",
     "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
     "XAI notes/Bibliography.md",
