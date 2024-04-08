@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
+                "file": "Papers to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
+                "file": "Papers to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md"
+                "file": "Papers to read.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa5edd18f13deaa9",
+  "active": "54068e02ae2d8582",
   "lastOpenFiles": [
+    "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
     "Factory-IA.md",
     "On The Reasons Behind Decisions.md",
     "Papers to read.md",
@@ -201,7 +201,6 @@
     "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
-    "XAI notes/Robustness/Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them.md",
     "XAI notes/Robustness",
     "Untitled",
     "Untitled 1",
