@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "012ae1c646042398",
+        "id": "3a3650c4c21f7726",
         "type": "tabs",
         "children": [
           {
-            "id": "54068e02ae2d8582",
+            "id": "c5e70c50924fbe8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers to read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fb635a1a5fb1f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa5edd18f13deaa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
+                "file": "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers to read.md",
+                "file": "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers to read.md",
+                "file": "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to read.md"
+                "file": "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md"
               }
             }
           }
@@ -170,17 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54068e02ae2d8582",
+  "active": "c5e70c50924fbe8d",
   "lastOpenFiles": [
+    "Reading notes/@niepert2021implicit.md",
+    "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
+    "Reading notes/@agarwal2018image.md",
+    "Reading notes/@mackenzie2001mechanizing.md",
+    "Reading notes",
     "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
+    "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
+    "Papers to read.md",
     "Factory-IA.md",
     "On The Reasons Behind Decisions.md",
-    "Papers to read.md",
     "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "Miscellaneous/2023-12-15.md",
     "Miscellaneous/Shonen Jump.md",
     "XAI notes/Adversarial Attacks/\"Wasn't Me\" or How to Hide Adversarial Attacks Using Explainable AI.md",
-    "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
     "XAI notes/Bibliography.md",
     "XAI notes/Delivering Inflated Explanations.md",
     "XAI notes/Adversarial Attacks",
@@ -195,14 +176,9 @@
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
     "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
     "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
-    "XAI notes/Robustness/Adversarial Attacks and Data Poisoning Attacks.md",
-    "XAI notes/Robustness/SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain.md",
-    "XAI notes/Metrics for Explainable AI - Challenges and Prospects.md",
-    "XAI notes/A Benchmark for Interpretability Methods in DeepNeural Networks.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness",
-    "Untitled",
     "Untitled 1",
     "XAI notes/Contrastivity",
     "Collège de France/Cours de Xavier Leroy",
