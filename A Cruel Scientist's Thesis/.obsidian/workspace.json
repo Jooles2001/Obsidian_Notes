@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/This Looks Like That.md",
+                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/This Looks Like That.md",
+                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/This Looks Like That.md",
+                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/This Looks Like That.md"
+                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "c5e70c50924fbe8d",
   "lastOpenFiles": [
     "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
+    "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
+    "XAI notes/This Looks Like That.md",
     "Reading notes/@niepert2021implicit.md",
     "Reading notes/@agarwal2018image.md",
     "Reading notes/@mackenzie2001mechanizing.md",
@@ -174,8 +176,6 @@
     "TO-DO.md",
     "README.md",
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
-    "XAI notes/Robustness/Feature Fusion Based Adversarial Example Detection Against Second-Round Adversarial Attacks.md",
-    "XAI notes/Abstract Interpretation-based Feature Importance for Support Vector Machines.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness",
