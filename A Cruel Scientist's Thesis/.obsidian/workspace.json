@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a67e0baac9fcf6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
+                "file": "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
+                "file": "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md"
+                "file": "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5e70c50924fbe8d",
+  "active": "7a67e0baac9fcf6a",
   "lastOpenFiles": [
-    "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
     "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
+    "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md",
+    "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
     "XAI notes/This Looks Like That.md",
     "Reading notes/@niepert2021implicit.md",
     "Reading notes/@agarwal2018image.md",
@@ -172,7 +186,6 @@
     "Administratif.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
     "Transformers.md",
-    "Untitled.md",
     "TO-DO.md",
     "README.md",
     "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
