@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce474274fcd67255",
+  "active": "c5e70c50924fbe8d",
   "lastOpenFiles": [
+    "Images/An-example-of-CNN-architecture_W640.jpg",
+    "Images/General-structure-of-CNN-for-image-classification_W640.jpg",
     "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
     "Semantic of Structures, Unions, and Under specified Terms for Formal Specification.md",
     "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
@@ -175,7 +177,6 @@
     "Transformers.md",
     "TO-DO.md",
     "README.md",
-    "XAI notes/Explainability is NOT a Game – Preliminary Report.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness",
