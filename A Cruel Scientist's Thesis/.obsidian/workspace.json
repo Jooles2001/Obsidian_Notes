@@ -11,11 +11,28 @@
             "id": "c3ae40af5c22cd73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f4ee6b0e843b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mail To Japanese Researchers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers to read.md",
+                "file": "Mail To Japanese Researchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers to read.md",
+                "file": "Mail To Japanese Researchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers to read.md"
+                "file": "Mail To Japanese Researchers.md"
               }
             }
           }
@@ -142,45 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "dab40a5d86915ed2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c99aa793a2b7bf37",
-        "type": "window",
-        "children": [
-          {
-            "id": "67e69d36862ec83e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5e70c50924fbe8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Papers to read.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 633,
-        "y": 32,
-        "width": 800,
-        "height": 600,
-        "maximize": false,
-        "zoom": 3
-      }
-    ]
-  },
-  "active": "c5e70c50924fbe8d",
+  "active": "a3f4ee6b0e843b9b",
   "lastOpenFiles": [
+    "TO-DO.md",
+    "Mail To Japanese Researchers.md",
+    "Papers to read.md",
     "Images/An-example-of-CNN-architecture_W640.jpg",
     "Images/General-structure-of-CNN-for-image-classification_W640.jpg",
     "XAI notes/Adversarial Attacks/Universal adversarial perturbations.md",
@@ -193,7 +176,6 @@
     "Reading notes",
     "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
     "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
-    "Papers to read.md",
     "Factory-IA.md",
     "On The Reasons Behind Decisions.md",
     "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
@@ -208,7 +190,6 @@
     "Administratif.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
     "Transformers.md",
-    "TO-DO.md",
     "README.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
