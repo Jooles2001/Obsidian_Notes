@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883
+    "width": 266.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f4ee6b0e843b9b",
+  "active": "ce474274fcd67255",
   "lastOpenFiles": [
     "TO-DO.md",
     "Mail To Japanese Researchers.md",
