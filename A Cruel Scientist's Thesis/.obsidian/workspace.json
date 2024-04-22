@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mail To Japanese Researchers.md",
+                "file": "XAI notes/Distributed Repair of Deep Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DO.md",
+                "file": "XAI notes/Distributed Repair of Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DO.md",
+                "file": "XAI notes/Distributed Repair of Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DO.md"
+                "file": "XAI notes/Distributed Repair of Deep Neural Networks.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce474274fcd67255",
+  "active": "a3f4ee6b0e843b9b",
   "lastOpenFiles": [
     "TO-DO.md",
+    "XAI notes/Distributed Repair of Deep Neural Networks.md",
     "Mail To Japanese Researchers.md",
     "Papers to read.md",
     "Images/An-example-of-CNN-architecture_W640.jpg",
@@ -190,7 +191,6 @@
     "Administratif.md",
     "EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION.md",
     "Transformers.md",
-    "README.md",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
     "XAI notes/Robustness",
