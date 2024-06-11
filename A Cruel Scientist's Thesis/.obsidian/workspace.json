@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b05c0a09109c2aa4",
+            "id": "2a2ddc685c72c4d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "04f3f923f2f26564",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -157,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f3f923f2f26564",
+  "active": "2a2ddc685c72c4d3",
   "lastOpenFiles": [
+    "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
+    "Untitled.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Pistes de réflexion/Attack Detector.md",
-    "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
     "XAI4U/User Preference for LLMs vs Template-Based Explanations.md",
     "XAI4U/CaBRNet.md",
     "XAI4U/Impact des techniques d'explication et des représentations sur la compréhension et la confiance des utilisateurs dans l'IA explicable.md",
@@ -188,7 +178,6 @@
     "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "Miscellaneous/2023-12-15.md",
     "Miscellaneous/Shonen Jump.md",
-    "XAI notes/Adversarial Attacks/\"Wasn't Me\" or How to Hide Adversarial Attacks Using Explainable AI.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
