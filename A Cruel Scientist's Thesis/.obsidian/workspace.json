@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Workshop Préparation Serge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37787b3c7a347620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop Préparation Jules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Workshop Préparation Jules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Workshop Préparation Jules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Workshop Préparation Jules.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2ddc685c72c4d3",
+  "active": "37787b3c7a347620",
   "lastOpenFiles": [
+    "Workshop Préparation Serge.md",
+    "Workshop Préparation Jules.md",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
-    "Untitled.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Pistes de réflexion/Attack Detector.md",
     "XAI4U/User Preference for LLMs vs Template-Based Explanations.md",
@@ -177,7 +191,6 @@
     "On The Reasons Behind Decisions.md",
     "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "Miscellaneous/2023-12-15.md",
-    "Miscellaneous/Shonen Jump.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
