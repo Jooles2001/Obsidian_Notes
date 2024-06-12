@@ -20,5 +20,6 @@ Now, feedback on the first part of the "core" of the presentation:
 	- serious need for explaining and quantitatively measure the $L_2$ distance between the saliency maps
 
 Going into feedback of the ReLU part:
-- stop using the word "facet" and use "linear regions" instead 
+- stop using the word "facet" and use "linear regions" instead
+- take more time to explain how the ReLU functions cut the input space
  
