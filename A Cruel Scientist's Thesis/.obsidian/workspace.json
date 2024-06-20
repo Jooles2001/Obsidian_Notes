@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d00ad4da81a4be00",
+        "id": "7262530cbb722b7b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2ddc685c72c4d3",
+            "id": "36d5b73c641ce687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop Préparation Serge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37787b3c7a347620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshop Préparation Jules.md",
+                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883,
-    "collapsed": true
+    "width": 266.5004348754883
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workshop Préparation Serge.md",
+                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshop Préparation Serge.md",
+                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workshop Préparation Serge.md"
+                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md"
               }
             }
           }
@@ -160,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce474274fcd67255",
+  "active": "36d5b73c641ce687",
   "lastOpenFiles": [
-    "Images/Autoencoders-3.png",
     "Workshop Préparation Serge.md",
+    "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+    "Images/Autoencoders-3.png",
     "Workshop Préparation Jules.md",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
