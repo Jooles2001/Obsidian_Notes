@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+                "file": "Journée des Thèses 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b8c30944ef00015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Airplane Websites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+                "file": "Airplane Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+                "file": "Airplane Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md"
+                "file": "Airplane Websites.md"
               }
             }
           }
@@ -146,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36d5b73c641ce687",
+  "active": "3b8c30944ef00015",
   "lastOpenFiles": [
+    "Journée des Thèses 2024.md",
+    "Airplane Websites.md",
+    "Workshop Préparation Jules.md",
     "Workshop Préparation Serge.md",
     "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+    "Mail To Japanese Researchers.md",
     "Images/Autoencoders-3.png",
-    "Workshop Préparation Jules.md",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
     "Pistes de réflexion/Attack Detector.md",
@@ -162,7 +178,6 @@
     "XAI4U",
     "TO-DO.md",
     "XAI notes/Distributed Repair of Deep Neural Networks.md",
-    "Mail To Japanese Researchers.md",
     "Papers to read.md",
     "Images/An-example-of-CNN-architecture_W640.jpg",
     "Images/General-structure-of-CNN-for-image-classification_W640.jpg",
@@ -177,8 +192,6 @@
     "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
     "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
     "Factory-IA.md",
-    "On The Reasons Behind Decisions.md",
-    "XAI notes/Adversarial Attacks/Explanations can be manipulated and geometry is to blame.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
