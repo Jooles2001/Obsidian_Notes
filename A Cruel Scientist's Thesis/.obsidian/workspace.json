@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3b8c30944ef00015",
+            "id": "cce90159cb708359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airplane Websites.md",
+                "file": "Conseils pour la présentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Airplane Websites.md",
+                "file": "Conseils pour la présentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Airplane Websites.md",
+                "file": "Conseils pour la présentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Airplane Websites.md"
+                "file": "Conseils pour la présentation.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b8c30944ef00015",
+  "active": "cce90159cb708359",
   "lastOpenFiles": [
     "Journée des Thèses 2024.md",
+    "Conseils pour la présentation.md",
     "Airplane Websites.md",
     "Workshop Préparation Jules.md",
     "Workshop Préparation Serge.md",
@@ -191,7 +192,6 @@
     "Reading notes",
     "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
     "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
-    "Factory-IA.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
