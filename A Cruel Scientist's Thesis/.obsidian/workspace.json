@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b2d73c4d9a8600b9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2d73c4d9a8600b9",
+  "active": "cce90159cb708359",
   "lastOpenFiles": [
     "Journée des Thèses 2024.md",
     "Conseils pour la présentation.md",
