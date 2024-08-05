@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conseils pour la présentation.md",
+                "file": "Airplane Websites.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conseils pour la présentation.md",
+                "file": "Airplane Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conseils pour la présentation.md",
+                "file": "Airplane Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conseils pour la présentation.md"
+                "file": "Airplane Websites.md"
               }
             }
           }
@@ -161,13 +161,15 @@
   },
   "active": "cce90159cb708359",
   "lastOpenFiles": [
-    "Journée des Thèses 2024.md",
-    "Conseils pour la présentation.md",
-    "Airplane Websites.md",
     "Workshop Préparation Jules.md",
     "Workshop Préparation Serge.md",
-    "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
+    "TO-DO.md",
+    "On The Reasons Behind Decisions.md",
+    "Journée des Thèses 2024.md",
     "Mail To Japanese Researchers.md",
+    "Conseils pour la présentation.md",
+    "Airplane Websites.md",
+    "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
     "Images/Autoencoders-3.png",
     "Pistes de réflexion/Améliorer l'hypothèse de Saliency Map.md",
     "Pistes de réflexion/Idées 2024-01-18.md",
@@ -177,7 +179,6 @@
     "XAI4U/Impact des techniques d'explication et des représentations sur la compréhension et la confiance des utilisateurs dans l'IA explicable.md",
     "README.md",
     "XAI4U",
-    "TO-DO.md",
     "XAI notes/Distributed Repair of Deep Neural Networks.md",
     "Papers to read.md",
     "Images/An-example-of-CNN-architecture_W640.jpg",
@@ -191,7 +192,6 @@
     "Reading notes/@mackenzie2001mechanizing.md",
     "Reading notes",
     "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
-    "XAI notes/Adversarial Attacks/Group-wise Sparse and Explainable Adversarial Attacks.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
