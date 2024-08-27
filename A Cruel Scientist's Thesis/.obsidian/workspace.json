@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f028bc07b17b057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Présentations Stage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journée des Thèses 2024.md",
+                "file": "Présentations Stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journée des Thèses 2024.md",
+                "file": "Présentations Stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journée des Thèses 2024.md"
+                "file": "Présentations Stage.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36d5b73c641ce687",
+  "active": "1f028bc07b17b057",
   "lastOpenFiles": [
+    "Journée des Thèses 2024.md",
+    "Présentations Stage.md",
     "Airplane Websites.md",
     "Workshop Préparation Jules.md",
     "Workshop Préparation Serge.md",
     "TO-DO.md",
     "On The Reasons Behind Decisions.md",
-    "Journée des Thèses 2024.md",
     "Mail To Japanese Researchers.md",
     "Conseils pour la présentation.md",
     "XAI notes/Adversarial Attacks/Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.md",
@@ -178,7 +192,6 @@
     "Reading notes/@agarwal2018image.md",
     "Reading notes/@mackenzie2001mechanizing.md",
     "Reading notes",
-    "XAI notes/“Why Should I Trust You?” Explaining the Predictions of Any Classifier.md",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
     "Images/Pasted image 20240306162050.png",
