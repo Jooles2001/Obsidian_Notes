@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0799211e437b146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initialisation de Prototypes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883
+    "width": 266.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "4d4d427fead2e69e",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUJET DE THÈSE.md",
+                "file": "Initialisation de Prototypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUJET DE THÈSE.md",
+                "file": "Initialisation de Prototypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUJET DE THÈSE.md"
+                "file": "Initialisation de Prototypes.md"
               }
             }
           }
@@ -146,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595f69dd44e637ad",
+  "active": "b0799211e437b146",
   "lastOpenFiles": [
     "SUJET DE THÈSE.md",
+    "Initialisation de Prototypes.md",
     "Journée des Thèses 2024.md",
     "Présentations Stage.md",
     "Airplane Websites.md",
@@ -177,7 +192,6 @@
     "XAI notes/Adversarial Attacks/Are Image-Agnostic Universal Adversarial Perturbations for Face Recognition Difficult to Detect?.md",
     "XAI notes/This Looks Like That.md",
     "Reading notes/@niepert2021implicit.md",
-    "Reading notes/@agarwal2018image.md",
     "Reading notes",
     "XAI notes/Adversarial Attacks",
     "Images/Pasted image 20240122103408.png",
